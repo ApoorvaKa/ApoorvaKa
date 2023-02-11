@@ -4,7 +4,7 @@
 
 <p align=center>Senior at NYU</p>
 
-- Majoring in Computer Science at NYU 
+- Majoring in Computer Science
 - Minor in Game Engineering 
 - Minor in Management and Public Policy 
 
